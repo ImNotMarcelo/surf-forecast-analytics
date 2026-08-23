@@ -77,7 +77,6 @@ The project currently supports:
 
 ## 🔄 Data Pipeline
 
-```text
 Surf Break Coordinates
         ↓
 Open-Meteo Marine API
@@ -92,7 +91,7 @@ Surf Score Model
         ↓
 Processed Dataset
         ↓
-Analysis & Visualization```
+Analysis & Visualization
 
 ---
 
