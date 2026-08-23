@@ -97,7 +97,7 @@ Analysis & Visualization
 ---
 
 ## 🗂️ Project Structure
-
+```text
 surf-forecast-analytics/
 │
 ├── data/
@@ -119,6 +119,7 @@ surf-forecast-analytics/
 ├── .gitignore
 ├── README.md
 └── requirements.txt
+```
 
 ---
 
@@ -138,7 +139,7 @@ surf-forecast-analytics/
 
 ## 🚀 Project Status
 
-Current
+**Current**
 - Git repository
 - Python environment
 - Initial surf break dataset
@@ -150,7 +151,7 @@ Current
 - Surf break ranking
 - Best surf time analysis
 
-Future
+**Future**
 - Improve break-specific parameters
 - Validate the Surf Score against real surf conditions
 - Add tide data
@@ -237,4 +238,5 @@ Always check current local conditions and use appropriate judgment before enteri
 ## 📄 License
 
 This project will be released as an open-source project.
+
 License details will be added as the project develops.
