@@ -1,11 +1,11 @@
-id,name,country,latitude,longitude,preferred_swell_direction_deg,swell_direction_tolerance_deg
-1,Máncora,Peru,-4.1078,-81.0475,315,45
-2,Lobitos,Peru,-4.4553,-81.2808,225,45
-3,Chicama,Peru,-7.8440,-79.1465,225,45
-4,Huanchaco,Peru,-8.0810,-79.1200,180,90
-5,Pacasmayo,Peru,-7.4015,-79.5710,225,45
-6,Punta Roquitas,Peru,-12.1229,-77.0435,225,45
-7,Punta Hermosa,Peru,-12.3360,-76.8210,180,60
-8,Punta Rocas,Peru,-12.3300,-76.7800,225,45
-9,San Bartolo,Peru,-12.3890,-76.7800,180,60
-10,Cerro Azul,Peru,-13.0270,-76.4820,225,45
+id,name,country,latitude,longitude,preferred_swell_direction_deg,swell_direction_tolerance_deg,preferred_wind_direction_deg,wind_direction_tolerance_deg
+1,Máncora,Peru,-4.1078,-81.0475,315,45,112,45
+2,Lobitos,Peru,-4.4553,-81.2808,225,45,112,45
+3,Chicama,Peru,-7.8440,-79.1465,225,45,135,45
+4,Huanchaco,Peru,-8.0810,-79.1200,180,90,157,45
+5,Pacasmayo,Peru,-7.4015,-79.5710,225,45,45,45
+6,Punta Roquitas,Peru,-12.1229,-77.0435,225,45,45,45
+7,Punta Hermosa,Peru,-12.3360,-76.8210,180,60,45,45
+8,Punta Rocas,Peru,-12.3300,-76.7800,225,45,90,45
+9,San Bartolo,Peru,-12.3890,-76.7800,180,60,67,45
+10,Cerro Azul,Peru,-13.0270,-76.4820,225,45,67,45
