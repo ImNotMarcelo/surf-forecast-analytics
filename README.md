@@ -75,7 +75,6 @@ The project currently supports:
 
 ---
 
-```markdown
 ## 🔄 Data Pipeline
 
 ```text
